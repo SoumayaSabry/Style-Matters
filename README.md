@@ -12,13 +12,13 @@ We show that integrating personalized linguistic style into embeddings leads to 
 
 ## 🗂️ Repository Structure
 This repository is organized into four main components:
-├── Preprocess/ # Dataset preprocessing pipeline 
-│ └── dataset_source.txt
-│ └── code_general.py
-│
-├── baseline/ # Baseline model implementation 
-├── first_approach/ # First proposed approach
-└── second_approach/ # Second proposed approach
+├── Preprocess/
+
+├── baseline/
+
+├── first_approach/ 
+
+└── second_approach/ 
 
 
 ## Requirements
